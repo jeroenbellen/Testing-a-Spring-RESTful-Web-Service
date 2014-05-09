@@ -1,6 +1,6 @@
-package be.jeroenbellen.restsandbox.controller;
+package pirate.controller;
 
-import be.jeroenbellen.restsandbox.dto.Ship;
+import pirate.dto.Ship;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

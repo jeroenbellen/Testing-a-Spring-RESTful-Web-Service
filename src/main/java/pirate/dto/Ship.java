@@ -1,4 +1,4 @@
-package be.jeroenbellen.restsandbox.dto;
+package pirate.dto;
 
 public class Ship {
 

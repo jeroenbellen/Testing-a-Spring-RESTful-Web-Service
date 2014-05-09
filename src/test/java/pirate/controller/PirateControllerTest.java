@@ -1,4 +1,4 @@
-package be.jeroenbellen.restsandbox.controller;
+package pirate.controller;
 
 import org.junit.Before;
 import org.junit.Test;
